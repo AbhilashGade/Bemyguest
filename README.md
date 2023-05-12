@@ -79,3 +79,7 @@ The Project utilizes the following APIs, frameworks and tools:
 ### Snapshots of Project
 
 <img width="100%" alt="image" src="./images/domain-model.png">
+### Snapshots of WebApp
+<img width="100%" alt="image" src="./images/HomePage.png">
+<img width="100%" alt="image" src="./images/HomePageAfterSearch.png">
+<img width="100%" alt="image" src="./images/viewDetailRoom.png">
